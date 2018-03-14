@@ -1,2 +1,2 @@
-# typescrip-3
+# typescript-3
 Typescript basic.
